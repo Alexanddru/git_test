@@ -1,0 +1,1 @@
+This is Alex & this is my first Git project
